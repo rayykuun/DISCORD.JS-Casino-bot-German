@@ -1,4 +1,6 @@
-# DISCORD.JS-Casino-bot-German
+DOWNLOAD the ZIP and open in any code editor put your token and mongodb link in the .env file
+
+DISCORD.JS-Casino-bot-German
 Discord.js Casino bot with slash commands (in german)
 
 you just need your bot token and MongoDB link
